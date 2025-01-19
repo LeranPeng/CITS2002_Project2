@@ -1,6 +1,6 @@
 //  CITS2002 Project 2 2024
-//  Student1: 23909531 Leran Peng
-//  Student2: 24022534 Runzhi Zhao
+//  Student1: Leran Peng
+//  Student2: Runzhi Zhao
 //  Platform: Apple
 
 #include <limits.h>
